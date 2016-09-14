@@ -3,7 +3,7 @@ img.me {
 	max-width: 250px;
 }
 
-div.tab-pane button.btn-lg {
+div.tab-pane a.btn-lg {
 	font-size: 4em;
 	margin-top: 20px;
 	width: 100%;
